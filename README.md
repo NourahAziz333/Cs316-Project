@@ -43,11 +43,11 @@ Visual validation confirmed correct metadata-label alignment and prediction cons
 
 
 ## Team Members
-## Norah Alarifi (223410672)
+ Norah Alarifi (223410672)
 
-## Areeshah Nadeem (222410835)
+ Areeshah Nadeem (222410835)
 
-## Nora Almotawa (221511427)
+ Nora Almotawa (221511427)
 
 ## Conclusion
 This project demonstrates how AI can be used to protect biodiversity by monitoring environmental threats. Through a hybrid model that fuses visual data and structured metadata, we created a robust tool for classifying deforestation and poaching risks. The pipeline is end-to-end, interpretable, and customizable for deployment in real-world conservation areas. All source code, results, and resources are openly shared here to support ongoing innovation in conservation technology.
